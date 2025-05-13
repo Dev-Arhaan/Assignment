@@ -1,6 +1,6 @@
 # ⏰ Remind Me Later API
 
-A simple RESTful API built with Django and Django REST Framework that allows users to create and store reminders for future dates and times via Email or SMS.
+A simple RESTful API built with Django and Django REST Framework that allows users to create and store reminders for future dates and times via Email or SMS. This is a simple POST endpoint, Future scope involves adding GET, PUT and DELETE endpoints as well.
 
 ---
 
